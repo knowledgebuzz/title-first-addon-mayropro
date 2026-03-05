@@ -1,4 +1,4 @@
-```markdown
+
 # Title First Addon for MayroPro-master
 
 [![Version](https://img.shields.io/badge/version-1.0-blue)](https://github.com/knowledgebuzz/title-first-addon-mayropro)  
@@ -62,4 +62,3 @@ If you find this plugin useful, consider supporting development:
 ## License
 
 This plugin is licensed under **GPL v2**. See the [LICENSE](LICENSE) file for details.
-```
